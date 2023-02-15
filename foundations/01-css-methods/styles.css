@@ -1,0 +1,12 @@
+/* External CSS:
+this one uses the <div>, will use type selector (albeit class and ID would be better, we'll see)*/
+div {
+    background-color: red;
+    color: white;
+    font-size: 32px;
+    text-align: center;
+    font-weight: bold;
+}
+
+/* Internal CSS */
+
